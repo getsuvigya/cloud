@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="435f55d3-68a7-4b8c-bac2-caba8f11fc0b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/src/main/java/employeeService/EmployeeServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/target/classes/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/target/classes/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/EmployeeServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeService/src/main/java/employeeService/controllers/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/src/main/java/employeeService/controllers/EmployeeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/controllers/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/controllers/EmployeeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/models/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/models/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -203,7 +196,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
