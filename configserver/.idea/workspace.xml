@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="435f55d3-68a7-4b8c-bac2-caba8f11fc0b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../EmployeeService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/src/main/java/employeeService/controllers/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/src/main/java/employeeService/controllers/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/controllers/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeService/target/classes/employeeService/controllers/EmployeeController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
